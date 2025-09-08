@@ -168,7 +168,7 @@ Antes de executar, crie um ambiente virtual (venv). Certifique-se de ter o (Pyth
 1.  **Clone o repositório (se aplicável):**
 
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone <https://github.com/JoaoFialho1/JGP2025>
     cd JGP2025
     ```
 
