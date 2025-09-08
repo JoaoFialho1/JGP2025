@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+
+# PyCharm
+.idea/
+.excel/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
